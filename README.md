@@ -27,7 +27,7 @@ faço Bootcamps pela Digital Innovation One e acompanho o Curso em Vídeo do pro
  <a href = "mailto:evertonnascimento.serpa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-##
+#
 <img width="480px"  src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif">
  
  <!--<img width="400px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
