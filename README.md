@@ -28,13 +28,13 @@ faço Bootcamps pela Digital Innovation One e acompanho o Curso em Vídeo do pro
  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>#
  
 
-<img width="900px" height="200px"  src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif">
+<img width="900px" height="480px"  src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif">
  
  <!--<img width="400px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
  
  https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif
  
- <iframe height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/f9XgHHnPnDjOF1hWpl">via GIPHY</a></p>!-->
+<iframe src="https://giphy.com/embed/f9XgHHnPnDjOF1hWpl" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/f9XgHHnPnDjOF1hWpl">via GIPHY</a></p>
  
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
