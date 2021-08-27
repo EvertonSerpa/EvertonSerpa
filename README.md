@@ -32,10 +32,11 @@ faço Bootcamps pela Digital Innovation One e acompanho o Curso em Vídeo do pro
 <p><img width="280px" height="280px" aling=""
 left"  src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif"></p>
 
-<p><img width="280px" height="280px" aling=""                                                                      
+<p><img width="480px" height="480px" aling=""                                                                      
 src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif"></p>
+ 
 #
-
+<iframe src="https://giphy.com/embed/CcwLAV11cALh3OuEJ5" width="480" height="144" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-programming-ninjas-CcwLAV11cALh3OuEJ5">via GIPHY</a></p>
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
  </div>
