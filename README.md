@@ -30,9 +30,11 @@ faço Bootcamps pela Digital Innovation One e acompanho o Curso em Vídeo do pro
  
 #
  
-<div> <img width="280px" height="280px" src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif">
+<div> 
 
+<img width="280px" height="280px" src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif">
 <img width="280px" height="280px" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif">
+<img width="280px" height="280px" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 </div>
  
