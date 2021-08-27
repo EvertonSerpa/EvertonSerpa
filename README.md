@@ -26,18 +26,14 @@ faço Bootcamps pela Digital Innovation One e acompanho o Curso em Vídeo do pro
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:evertonnascimento.serpa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+#
  
- #
 <img width="280px" height="280px" aling="
 left"  src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif">
  
- <!--<img width="400px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+#
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
- https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif
- 
-<iframe src="https://giphy.com/embed/f9XgHHnPnDjOF1hWpl" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/f9XgHHnPnDjOF1hWpl">via GIPHY</a></p>
- 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div
+ </div>
