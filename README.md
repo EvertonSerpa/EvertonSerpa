@@ -1,6 +1,6 @@
 ### 👋Oi, me chamo Everton Serpa. 
 Atualmente estudo programação pela Blue Edtech, que tem duração de 1 ano. Para assimilar melhor o conteúdo e desbravar novos horizontes, 
-faço Bootcamps pela Digital Innovation One e acompanho o Curso em Vídeo do professor Guanabara. O arquivo da grade detalhada do curso se encontra no readmer, para baixar vá em repositório>EvertonSerpa>conteudo_do_curso.pdf>download.
+faço Bootcamps pela Digital Innovation One e acompanho o Curso em Vídeo do professor Guanabara. O arquivo da grade detalhada do curso se encontra no README.md, para baixar vá em repositório>EvertonSerpa>conteudo_do_curso.pdf>download.
 
 
 ##
