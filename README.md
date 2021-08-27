@@ -6,8 +6,7 @@ faço Bootcamps pela Digital Innovation One e acompanho o Curso em Vídeo do pro
 <div aling="">
  
   <a href="https://github.com/EvertonSerpa">
-  <img height="180em" img src="https://github-readme-stats.vercel.app/api?username=EvertonSerpa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>      
-  
+  <img height="180em" img src="https://github-readme-stats.vercel.app/api?username=EvertonSerpa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>   
   <img height="180em" img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonSerpa&layout=compact&langs_count=7&theme=github_dark"/> 
 
 </div>
@@ -26,16 +25,19 @@ faço Bootcamps pela Digital Innovation One e acompanho o Curso em Vídeo do pro
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:evertonnascimento.serpa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+ 
+</div>
 #
  
-<p aling="center"><img width="280px" height="280px" 
+<div>aling="center"><img width="280px" height="280px" 
 left"  src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif"></p>
 
 <p aling="center"><img width="280px" height="280px"                                                                     
 src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif"></p>
+
+</div>
  
 #
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
- </div>
+ 
