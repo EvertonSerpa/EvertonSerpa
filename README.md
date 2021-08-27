@@ -32,7 +32,7 @@ faço Bootcamps pela Digital Innovation One e acompanho o Curso em Vídeo do pro
 <p><img width="280px" height="280px" aling=""
 left"  src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif"></p>
 
-<p><img width="480px" height="480px" aling=""                                                                      
+<p><img width="280px" height="280px" aling="center"                                                                      
 src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif"></p>
  
 #
