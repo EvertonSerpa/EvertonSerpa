@@ -28,7 +28,8 @@ faço Bootcamps pela Digital Innovation One e acompanho o Curso em Vídeo do pro
  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>#
  
 
-<img width="280px" height="280px"  src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif">
+<img width="280px" height="280px" aling="
+left"  src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif">
  
  <!--<img width="400px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
  
